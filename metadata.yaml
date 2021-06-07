@@ -1,0 +1,5 @@
+homepage: "https://www.trustedsite.com"
+documentation: "https://github.com/TrustedSite/trustedsite-main-code-gtm-template/blob/master/README.md"
+versions:
+  - sha: 5225d984a7e9460b29284c129c4ce52592c51bd2
+    changeNotes: Initial release.
