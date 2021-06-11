@@ -14,7 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "TrustedSite Certification",
-  "categories": ["CONVERSIONS", "MARKETING", "SALES"]
+  "categories": ["CONVERSIONS", "MARKETING", "SALES"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
@@ -85,6 +85,6 @@ scenarios: []
 
 ___NOTES___
 
-Created on 6/6/2021, 8:48:29 PM
+Created on 6/11/2021, 8:28:22 AM
 
 
